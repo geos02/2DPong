@@ -38,6 +38,9 @@ public class Game implements Runnable {
 	// UI
 	private UI ui;
 	
+	// Variable de Prueba
+	private String VariablePrueba = "Borrame";
+	
 	public Game(String title, int width, int height) {
 		this.title = title;
 		this.width = width;
